@@ -19,11 +19,11 @@ Most of what we publish here is tooling for interface engines. We work with the 
 
 Installable builds: [MirthSync CLI](https://saga-it.com/products/mirthsync) · [VS Code extension](https://saga-it.com/products/mirthsync-vscode) · [engine plugin](https://saga-it.com/downloads/mirthsync-plugin)
 
-### Free tools, no sign-up
+### Free tools
 
-- **[DICOM Viewer](https://saga-it.com/dicom/viewer)** opens imaging studies in the browser with nothing to install.
-- **[HL7 Workbench](https://saga-it.com/hl7workbench)** parses and inspects HL7 v2 messages.
-- **[DICOM Spec Browser](https://saga-it.com/dicom/spec)** is the DICOM standard, cross-linked and searchable.
+- **[DICOM Viewer](https://saga-it.com/dicom/viewer)** opens imaging studies in the browser, nothing to install and no sign-up.
+- **[DICOM Spec Browser](https://saga-it.com/dicom/spec)** is the DICOM standard, cross-linked and searchable, no sign-up.
+- **[HL7 Workbench](https://saga-it.com/hl7workbench)** is an HL7 v2 and FHIR spec browser, open to anyone. The message parser and validator need a free account.
 
 ### What we do
 
