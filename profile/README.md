@@ -19,6 +19,11 @@ Most of what we publish here is tooling for interface engines. We work with the 
 
 Installable builds: [MirthSync CLI](https://saga-it.com/products/mirthsync) · [VS Code extension](https://saga-it.com/products/mirthsync-vscode) · [engine plugin](https://saga-it.com/downloads/mirthsync-plugin)
 
+### Products
+
+- **[Clinical Extract](https://clinicalextract.com)** pulls research data from any EHR with a certified bulk FHIR API (Epic, Oracle Health, athenahealth, eClinicalWorks, MEDITECH, NextGen and Veradigm) and returns one CSV with a data dictionary. It runs in the customer's environment.
+- **[Kymolog](https://kymolog.com)** codes bedside and wearable device readings to FHIR R4 with LOINC and UCUM, files them in the EHR and keeps each reading with its device and time for research.
+
 ### Free tools
 
 - **[DICOM Viewer](https://saga-it.com/dicom/viewer)** opens imaging studies in the browser, nothing to install and no sign-up.
